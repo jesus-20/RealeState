@@ -4,3 +4,6 @@ git push -u origin --all
 
 =================================
 git clone https://23ro.visualstudio.com/RealeState/_git/RealeState
+
+==================
+git remote add origin https://github.com/jesus-20/RealeState.git
