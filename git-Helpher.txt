@@ -1,0 +1,6 @@
+﻿git remote add origin https://23ro.visualstudio.com/RealeState/_git/RealeState
+
+git push -u origin --all
+
+=================================
+git clone https://23ro.visualstudio.com/RealeState/_git/RealeState
